@@ -1,3 +1,3 @@
-##this is index page
+# this is index page
 
-### the new content will be publish As far as possible
+### the new content will be publish as far as possible
