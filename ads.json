@@ -1,1 +1,13 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test for agama",
+        "type": "community",
+        "author": "repo-autkat",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/repo-autkat/powerByliuzidong.github.io",
+        "githubUri": "https://github.com/repo-autkat/powerByliuzidong.github.io",
+        "license": "MIT",
+        "lastUpdated": "1685062714258"
+    }
+}
